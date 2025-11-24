@@ -56,5 +56,5 @@ Follow these steps to test the application's core functions:
    o Expected Behavior: The Bill Area should display the content of the saved bill file.  
 
 
-Screenshots – 
+
 
